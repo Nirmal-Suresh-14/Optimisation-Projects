@@ -1,0 +1,7 @@
+Input for the Function
+
+Initial Point
+x = (-5, -1, 1, -10, -20)
+
+Input Domain
+xi E [-25, 25]
